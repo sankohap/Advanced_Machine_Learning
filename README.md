@@ -1,8 +1,8 @@
-                                                      ### Northeastern University
-                                                      ### Advanced_Machine_Learning
-                                    ### Albert Partick Sankoh :  Masters in Artificial Intelligence
-                                    ### Phone: 8575001199, email: sankoh.a@northeastern.edu
-                                    ### Pain Face Classification: A Comparative Analysis and model studying: Report
+                                                      Northeastern University
+                                                      Advanced_Machine_Learning
+                                    Albert Partick Sankoh :  Masters in Artificial Intelligence
+                                    Phone: 8575001199, email: sankoh.a@northeastern.edu
+                                    Pain Face Classification: A Comparative Analysis and model studying: Report
   
 ## Introduction/Overview
 
