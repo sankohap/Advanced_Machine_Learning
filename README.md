@@ -48,7 +48,7 @@ Imbalanced datasets can create challenges in training machine learning models, a
 To avoid these issues, it is crucial to address the class imbalance in the dataset before training a model. One possible approach is to use techniques like oversampling or undersampling to balance the class distribution. Another approach is to use algorithms that are specifically designed to handle imbalanced datasets, such as cost-sensitive learning or ensemble methods. By addressing the class imbalance, we can improve the model's generalization performance and prevent overfitting to the majority class.
 This is the link to the dataset: https://www.kaggle.com/datasets/coder98/emotionpain
 
-![Facial Expressions](/face_images.png)
+![Facial Expressions](/Face_images.png)
 
 
 ### Experimental Setup
