@@ -126,7 +126,7 @@ For Predictive scores by different data augmentation methods and different folds
 
 Based on the results , it appears that the data augmentation techniques "flip", "rotate", and "zoom", had a positive impact on the performance of the predictive model. This is evident from the improvement in various evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-For instance, the "flip" augmentation method had the highest accuracy mean of 0.9938 and F1-Score mean of 0.9969 on fold 4. Similarly, the "rotate" method had a high accuracy mean of 0.9901 and F1-Score mean of 0.9950 on fold 3. Lastly, the "zoom" method had a high precision mean of 0.9913 on fold 4. These results suggest that data augmentation techniques can significantly improve the performance of a predictive model by increasing its ability to generalize to unseen data.
+For instance, the "flip" augmentation method had the highest accuracy mean of 0.9938 and F1-Score mean of 0.9969 on fold 4. Similarly, the "rotate" method had a high accuracy mean of 0.9901 and F1-Score mean of 0.9950 on fold 3. Lastly, the "zoom" method had a high precision mean of 0.9913 on fold 4. These results suggest that data augmentation techniques can significantly improve the performance of a predictive model by increasing its ability to generalize to unseen data. 
 
 For Sensitivity analysis on three predictive scores with twofold mixup data augmentation on minority training data:
 
