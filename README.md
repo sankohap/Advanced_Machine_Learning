@@ -10,7 +10,7 @@ Accurately classifying pain is important in healthcare and medicine because it c
 
 Therefore, developing a more accurate and objective method of pain classification is essential to improve patient outcomes. This could involve using technology to measure physiological responses to pain or developing more sophisticated algorithms to analyze facial expressions. A more objective method of pain classification would enable medical professionals to more accurately diagnose and treat patients, leading to better pain management and improved patient outcomes.
 
-##Motivation
+### Motivation
 Accurate pain classification is crucial for providing effective treatment to patients. In many cases, pain is the primary reason for seeking medical attention. However, pain can be difficult to diagnose and treat because it is a subjective experience. Facial expressions are often used as an indicator of pain, but these expressions can be complex and difficult to interpret. Therefore, developing a more accurate method of pain classification based on facial expressions can greatly improve patient outcomes by enabling medical professionals to diagnose and treat pain more effectively
 
 ### Interestingness
@@ -40,7 +40,7 @@ In terms of comparison, Model 2 is a more complex and deeper CNN architecture th
 
 Note that it was determined that transfer learning should not be utilized in order to mitigate the risk of overfitting, especially given the imbalanced nature of the dataset.
 
-##Dataset
+### Dataset
 The dataset used for the face pain detection task contains 14,614 samples in total. Of these, 15 samples belong to class 0 "no_pain" and 14,599 samples belong to class 1 "with_pain". This indicates a highly imbalanced dataset, with the majority of the samples belonging to the "with_pain" class.
 
 Imbalanced datasets can create challenges in training machine learning models, as it can lead to overfitting. Overfitting occurs when a model becomes too specialized to the training data and is not able to generalize well to new, unseen data. In the case of an imbalanced dataset, the model can achieve high accuracy simply by predicting the majority class, but may perform poorly on the minority class.
